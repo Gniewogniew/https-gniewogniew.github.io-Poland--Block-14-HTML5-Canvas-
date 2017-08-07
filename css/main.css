@@ -1,0 +1,25 @@
+#pause{
+	position: absolute;
+	top:30px;
+	left:100px;
+}
+#addingBalls{
+	position: absolute;
+	top:30px;
+	left:200px;
+}
+#removingBalls{
+	position: absolute;
+	top:30px;
+	left:300px;
+}
+#addspeed{
+	position: absolute;
+	top:30px;
+	left:450px;
+}
+#slowspeed{
+	position: absolute;
+	top:30px;
+	left:550px;
+}
